@@ -13,7 +13,7 @@ Una demo di tale progetto è stata realizzata nell'ambito del Neapolis Summer Ca
 - Cesare Nardone
 - Giuseppe Casillo
 
-  Il sistema è stato realizzato con una scheda di sviluppo STM32G4, sensori e tramite il sistema operativo Chibios.
+Il sistema è stato realizzato con una scheda di sviluppo STM32G4, sensori e tramite il sistema operativo Chibios.
 
    ## English
 
