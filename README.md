@@ -8,7 +8,7 @@ Una demo di tale progetto è stata realizzata nell'ambito del Neapolis Summer Ca
 - Martina Veneruso
 - Martina D'amora
 - Armando Ciullo
-- Maurizio Lapalucci
+- Maurizio Iapalucci
 - Fabio Hernandez
 - Cesare Nardone
 - Giuseppe Casillo
@@ -25,7 +25,7 @@ A demo of this project was realized as part of the Neapolis Summer Camp with the
 - Martina Veneruso
 - Martina D'amora
 - Armando Ciullo
-- Maurizio Lapalucci
+- Maurizio Iapalucci
 - Fabio Hernandez
 - Cesare Nardone
 - Giuseppe Casillo
